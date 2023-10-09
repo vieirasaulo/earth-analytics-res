@@ -2,6 +2,8 @@
 
 
 > Useful resources to establish an ecossystem for earth analytics and hydrology.
+> Repo to ensure good open science across scholars and practitioners.
+>
 
 
 ## Contents
