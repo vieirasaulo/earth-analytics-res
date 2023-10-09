@@ -3,7 +3,6 @@
 
 > Useful resources to establish an ecossystem for earth analytics and hydrology.
 > Repo to ensure good open science across scholars and practitioners.
->
 
 
 ## Contents
@@ -49,7 +48,7 @@
 - [Geopandas](https://geopandas.org/en/stable/) - Extends the datatypes used by pandas to allow spatial operations on geometric types. (Python, BSD-3-Clause, [GitHub](https://github.com/geopandas/geopandas))
 - [rasterstats](https://pythonhosted.org/rasterstats/) - Summarizing geospatial raster datasets based on vector geometries. (Python, BSD-3-Clause, [GitHub](https://github.com/geopandas/geopandas))
 - [xyz2tif](https://gist.github.com/philippkraft/2da0ab4314dd334463fe0e04985bba32
-) - GitHub Gist to convert .xyz to .tif format. (Python MIT)
+) - GitHub Gist to convert .xyz to .tif format. (Python, MIT, GitHub)
 
 
 ## Meshing
@@ -75,4 +74,7 @@
 
 
 ## Others
-- [TotalCommander](https://www.ghisler.com/index.htm) - Shareware file manager for Windows (Commercial License)
+- [Contributing](/contributing.md)
+- [GUIs](/others/GUIs.md)
+- [Learning Python](/others/learning.md)
+- [Data visualization examples](/others/plotting.md)
