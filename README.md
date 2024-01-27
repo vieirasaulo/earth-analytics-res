@@ -65,7 +65,8 @@
 ## Writing
 - [Latex](https://www.latex-project.org/) - Typesetting system for the production of technical and scientific documentation (TeX, LPPL 1.3, [GitHub](https://github.com/latex3/latex3))
 - [TeXcount](https://app.uio.no/ifi/texcount/) - TeXcount is a Perl script for counting words in LaTeX documents. (Perl, LPPL 1.3, [GitHub](https://github.com/aignas/TeXcount))
-
+- [Pandoc](https://pandoc.org/) - Swiss-army knife to convert between markup formats. (Haskell, GPL-2.0, [GitHub](https://github.com/jgm/pandoc))
+- [pdfsizeopt](https://github.com/pts/pdfsizeopt?tab=readme-ov-file) - Compressing pdf with marginal quality loss and features' preservation. (Python, GPL-2.0, [GitHub](https://github.com/pts/pdfsizeopt?tab=readme-ov-file))
 
 ## Rule makers
 - [Make](https://www.latex-project.org/) - Controls the generation of executables and other non-source files of a program from the program's source files. (GPL 3, [GitHub](https://github.com/mirror/make))
